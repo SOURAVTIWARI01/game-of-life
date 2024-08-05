@@ -36,3 +36,5 @@ jobs:
             echo "Commit message does not contain a valid JIRA task ID."
             exit 1
           fi
+
+
